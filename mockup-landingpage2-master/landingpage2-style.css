@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans&display=swap');
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Lora', serif;
+    color: white;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+#bg {
+    background-color: #1B1B1B;
+}
+
+#bg-s2 {
+    background-color: #262625;
+}
+
+.jumbotron {
+    background: none !important;
+}
